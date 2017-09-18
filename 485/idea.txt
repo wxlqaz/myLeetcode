@@ -1,0 +1,2 @@
+The idea is to reset current to 0 and m = max(current,m) if we see 0, otherwise increase current by 1
+result is max(current,m)
